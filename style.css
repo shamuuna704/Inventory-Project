@@ -41,3 +41,25 @@ th{
 background-color: yellow;	
 }
 
+
+ .image-container{
+    text-align: center; 
+    margin-top: 20px;
+}
+
+.styled-image{
+    width: 300px;
+
+  
+    padding: 10px;           
+    border: 5px solid #4CAF50; 
+    margin: 20px;            
+
+   
+    border-radius: 10px;    
+    box-shadow: 5px 5px 10px gray; 
+
+    
+    position: relative;
+    left: 20px; 
+}
